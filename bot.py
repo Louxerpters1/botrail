@@ -1,5 +1,3 @@
-# Instalasi dependensi yang diperlukan
-pip install telethon requests tqdm nest_asyncio
 
 import nest_asyncio
 nest_asyncio.apply()
