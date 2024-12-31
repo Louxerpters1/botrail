@@ -1,1 +1,2 @@
-web: python bot.py
+web: python telegram_video_bot/bot.py
+
