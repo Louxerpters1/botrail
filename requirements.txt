@@ -3,3 +3,4 @@ requests
 tqdm
 nest_asyncio
 ffmpeg-python
+python-telegram-bot
