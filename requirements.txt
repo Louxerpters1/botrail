@@ -1,0 +1,5 @@
+telethon
+requests
+tqdm
+nest_asyncio
+ffmpeg-python
