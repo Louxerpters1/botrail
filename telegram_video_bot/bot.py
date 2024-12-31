@@ -15,8 +15,8 @@ logger = logging.getLogger()
 # Konfigurasi Bot Telegram
 API_ID = '23615009'  # Ganti dengan API ID Anda
 API_HASH = '4a7525f3da2136eb61edf0800bf49b75'  # Ganti dengan API Hash Anda
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # Ganti dengan Token Bot dari BotFather
-GROUP_ID = 'TARGET_GROUP_ID'  # Ganti dengan ID grup target
+BOT_TOKEN = '7679765494:AAE4zbz8cSGLjuwyX_Xbm05bOwn0r1BRqOo'  # Ganti dengan Token Bot dari BotFather
+GROUP_ID = '-4733470420'  # Ganti dengan ID grup target
 
 client = TelegramClient('session_name', API_ID, API_HASH)
 
